@@ -7,13 +7,14 @@ const Container = styled.div`
   align-items: center;
   width: 100%;
   height: 100%;
+  background-color: #cbdadb;
 `
 const Hello = styled.h1`
   font-size: 80px;
-  color: #FA8072;
+  color: #FFF;
   margin: 10px;
   padding: 20px 40px;
-  border: 5px solid;
+  border: 8px solid;
   width: fit-content;
 `
 
